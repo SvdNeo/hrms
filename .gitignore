@@ -1,0 +1,11 @@
+# Node modules
+employee_backend/node_modules/
+employee_management/node_modules/
+
+# Build output
+employee_management/build/
+employee_backend/dist/
+
+# Environment variables
+employee_management/.env
+employee_backend/.env
